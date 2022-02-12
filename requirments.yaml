@@ -1,0 +1,4 @@
+---
+- name: test
+  src: https://github.com/mohtork/ansible/archive/refs/tags/v0.0.1.zip
+  type: url
