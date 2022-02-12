@@ -2,3 +2,4 @@
 - name: test
   src: git@github.com:mohtork/ansible.git
   version: v0.0.1
+  scm: git
