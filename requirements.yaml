@@ -1,4 +1,4 @@
 ---
 - name: test
   src: https://github.com/mohtork/ansible.git
-  version: 1.0.0
+  version: ansible-1.0.1
