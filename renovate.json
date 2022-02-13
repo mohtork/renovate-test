@@ -2,10 +2,8 @@
   "extends": [
     "config:base",
     ":disableDependencyDashboard"
-  ]
-},
-{
+  ],
   "ansible-galaxy": {
-    "fileMatch": ["(^|/)requirements\.ya?ml$"]
+    "fileMatch": ["requirements.yaml"]
   }
 }
