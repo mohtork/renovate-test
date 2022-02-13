@@ -3,7 +3,6 @@
     "config:base",
     ":disableDependencyDashboard",
   ],
-  "labels": ["dependencies"],
   "ansible-galaxy": {
     "fileMatch": ["requirements.yaml"]
   }
