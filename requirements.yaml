@@ -1,4 +1,4 @@
 ---
 - name: test
   src: git@github.com:mohtork/ansible.git
-  scm: git
+  version: 1.0.0
